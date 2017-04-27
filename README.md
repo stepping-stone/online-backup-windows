@@ -1,2 +1,2 @@
-# online-backup-win
+# online-backup-windows
 Windows script for Online Backup
