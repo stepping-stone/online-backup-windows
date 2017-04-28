@@ -1,40 +1,36 @@
-################################################################################
-# OnlineBackup.ps1 - Windows script for stoney backup
-################################################################################
-#
-# Copyright (C) 2017 stepping stone GmbH
-#                    Switzerland
-#                    http://www.stepping-stone.ch
-#                    support@stepping-stone.ch
-#
-# Authors:
-#  Jens Müller <jens.müller@stepping-stone.ch>
-#
-# This program is free software: you can redistribute it and/or
-# modify it under the terms of the GNU Affero General Public
-# License as published  by the Free Software Foundation, version
-# 3 of the License.
-#
-# This program is distributed in the hope that it will be useful,
-# but WITHOUT ANY WARRANTY; without even the implied warranty of
-# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-# GNU Affero General Public License for more details.
-#
-# You should have received a copy of the GNU Affero General Public
-# License  along with this program.
-# If not, see <http://www.gnu.org/licenses/>.
-#
-#
-# Description:
-# Backup script for data backup with stoney backup accounts.
-#
-# Usage:
-# OnlineBackup.ps1 -c <config>
-#
-# Example:
-# OnlineBackup.ps1 -c OnlineBackup.conf
-################################################################################
+OnlineBackup.ps1 - Windows script for stoney backup
 
+Copyright (C) 2017 stepping stone GmbH
+                   Switzerland
+                   http://www.stepping-stone.ch
+                   support@stepping-stone.ch
+
+Authors:
+Jens Müller <jens.müller@stepping-stone.ch>
+
+This program is free software: you can redistribute it and/or
+modify it under the terms of the GNU Affero General Public
+License as published  by the Free Software Foundation, version
+3 of the License.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU Affero General Public License for more details.
+
+You should have received a copy of the GNU Affero General Public
+License  along with this program.
+If not, see <http://www.gnu.org/licenses/>.
+
+
+Description:
+Backup script for data backup with stoney backup accounts.
+
+Usage:
+OnlineBackup.ps1 -c <config>
+
+Example:
+OnlineBackup.ps1 -c OnlineBackup.conf
 
 # online-backup-windows
 Windows script for Online Backup
